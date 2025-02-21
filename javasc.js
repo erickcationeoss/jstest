@@ -17,4 +17,7 @@ function quadrado(numero) {
  alert("0 script está rodando!");
 
  //interação do usuário no navegador
+ document.addEventListener("DOMContentLoaded", function() { 
+     let nome = "usuario";
   document.body.innerHTML = "<h1>Olá, " + nome + "!</h1>";
+ });
