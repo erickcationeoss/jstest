@@ -2,7 +2,7 @@
 console.log("Olá mundo!");
 
 //declara uma variável e exibe seu valor
-let nome = "usuário";
+let nome = "pinto";
 console.log("Bem-vindo," + nome + "!");
 
 //Função para calcular o quadrado de um número
