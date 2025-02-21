@@ -14,6 +14,7 @@ function quadrado(numero) {
  let resultado = quadrado(4);
  console.log("O quadrado de 4 é: " + resultado);
 
+ alert("0 script está rodando!");
 
  //interação do usuário no navegador
-  document.body.innerHTML = "<h1>Olá, " + nome+ "!</h1>";
+  document.body.innerHTML = "<h1>Olá, " + nome + "!</h1>";
