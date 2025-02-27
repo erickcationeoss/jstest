@@ -1,23 +1,11 @@
-//exibe uma mensagem no console
-console.log("Olá mundo!");
+//começo do código do 5
 
-//declara uma variável e exibe seu valor
-let nome = "pinto";
-console.log("Bem-vindo," + nome + "!");
+var numero= 5;
+let = x=2; 
 
-//Função para calcular o quadrado de um número
-function quadrado(numero) {
-     return numero * numero;
-}
-
-// Chama a função e exibe o resultado
- let resultado = quadrado(4);
- console.log("O quadrado de 4 é: " + resultado);
-
- alert("o script está rodando!")
-
- //interação do usuário no navegador
- document.addEventListener("DOMContentLoaded", function() { 
-     let nome = "usuario";
-  document.body.innerHTML = "<h1>Olá, " + nome + "!</h1>";
- });
+  if (x< 5){
+     alert("x é menor do que 5");
+  } else if (x >5){
+     alert("x é maior do que 5");
+  } else (x =5)
+     alert("é igual a 5")
